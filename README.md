@@ -1,5 +1,7 @@
 # video-m3u8-demo
-在node项目里使用ffmpeg-static来对视频进行分割，然后在前端项目里使用hls.js进行播放m3u8格式的视频
+一个分割视频和播放分割视频的demo：
+1. 在node项目里使用ffmpeg-static来对视频进行分割，然后在前端项目里使用hls.js进行播放m3u8格式的视频；
+2. 在前端vue3项目里使用hls.js来播放m3u8的视频
 
 ### node项目 ffmpeg-video-node
 
